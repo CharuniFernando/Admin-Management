@@ -1,0 +1,11 @@
+Topic - Computer Spare Parts Management System - CSPMS
+My Part - Admin:User Control
+
+Reuirements for run the project:
+MySQL Workbrench 8.0
+User name : root
+Password : 123456
+
+Apache Tomcat Server 8.5
+
+Eclipse IDE for Enterprise Java and Web Developers - 2024-03
