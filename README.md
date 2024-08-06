@@ -1,4 +1,4 @@
-# Admin-Management
+# Web-based Application - Admin-Management
 Web-based Application | Computer Spare Parts Management System 
 
 Used Technologies:
